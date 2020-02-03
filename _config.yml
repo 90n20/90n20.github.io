@@ -1,0 +1,21 @@
+theme: jekyll-theme-hacker
+title: "90n20"
+owner: 90n20
+author: 90n20
+email: "90n20 at protonmail dot ch"
+gpg: ""
+description: "Cibersecurity and freak stuff."
+show_downloads: false # displays download button on the .io page
+repository: 90n20/90n20.github.io
+timezone: Europe/Madrid
+
+github_username: 90n20
+
+github:
+  show_repository_link: false
+
+plugins:
+  - jekyll-feed
+  - jemoji
+
+markdown: CommonMarkGhPages

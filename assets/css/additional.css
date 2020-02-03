@@ -1,0 +1,41 @@
+header {
+    margin: 20px 0px;
+}
+
+.achievements {
+    padding: 5px 0px;
+    display: inline-block;
+    margin: 0px;
+}
+
+.social {
+    padding: 5px 0px;
+    display: inline-block;
+    margin: 0px;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+code {
+    color: #b5e853;
+}
+
+a:link { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+h1:hover .header-anchor,
+h2:hover .header-anchor,
+h3:hover .header-anchor,
+h4:hover .header-anchor,
+h5:hover .header-anchor,
+h6:hover .header-anchor {
+    opacity: 1
+}
+a.header-anchor {
+    opacity: 0
+}
+a.header-anchor:hover {
+    text-decoration: none
+}
